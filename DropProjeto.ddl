@@ -1,0 +1,16 @@
+
+DROP TABLE tb_tok_ajuda_cliente CASCADE CONSTRAINTS;
+
+DROP TABLE tb_tok_cliente CASCADE CONSTRAINTS;
+
+DROP TABLE tb_tok_corretagem_a CASCADE CONSTRAINTS;
+
+DROP TABLE tb_tok_corretagem_i CASCADE CONSTRAINTS;
+
+DROP TABLE tb_tok_corretagem_rp CASCADE CONSTRAINTS;
+
+DROP TABLE tb_tok_corretor CASCADE CONSTRAINTS;
+
+DROP TABLE tb_tok_endereco_cliente CASCADE CONSTRAINTS;
+
+DROP TABLE tb_tok_servicos CASCADE CONSTRAINTS;
